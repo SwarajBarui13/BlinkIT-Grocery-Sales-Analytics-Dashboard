@@ -81,3 +81,7 @@ Outlet Optimization: Helps BlinkIT understand which store formats (Tier 1 large 
 Consumer Preferences: Uncovers buying patterns based on product attributes like fat content and visibility.
 
 Strategic Planning: Enables BlinkIT to refine supply chain planning, promotion strategy, and market expansion.
+
+6. Screenshots / Demos
+   
+https://github.com/SwarajBarui13/BlinkIT-Grocery-Sales-Analytics-Dashboard/blob/main/BlinkIT%20Grocery%20Sales%20Analytics%20Dashboard%20screenshot.png
